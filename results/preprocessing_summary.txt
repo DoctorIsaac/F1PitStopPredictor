@@ -1,0 +1,7 @@
+Total races: 17
+Train races (13): ['2022_18', '2023_1', '2023_10', '2023_16', '2023_19', '2023_22', '2023_4', '2023_7', '2024_1', '2024_19', '2024_8', '2025_1', '2025_21']
+Test races (4, held out entirely): ['2022_1', '2022_11', '2023_13', '2025_11']
+Train rows: 12272  (pit rate 2.917%)
+Test rows: 4327  (pit rate 4.252%)
+Compound imputed with mode: HARD
+Feature columns (15): ['TyreLife', 'Position', 'GapToCarAhead', 'LapTimeSeconds', 'LapTimeDegradation', 'AirTemp', 'TrackTemp', 'Humidity', 'Rainfall', 'WindSpeed', 'Compound_HARD', 'Compound_INTERMEDIATE', 'Compound_MEDIUM', 'Compound_SOFT', 'Compound_WET']
