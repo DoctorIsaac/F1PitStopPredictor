@@ -1,6 +1,6 @@
 # F1 Pit Stop Strategy Predictor
 
-Steven Velasquez — Panther ID 6376609 — CAI4105
+Steven Velasquez — CAI4105
 
 Predicts, on a per-lap basis, whether a Formula 1 driver should pit ("Pit")
 or continue on track ("Stay Out"), using lap, tire, position, and weather
