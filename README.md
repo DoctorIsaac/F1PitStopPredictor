@@ -1,6 +1,6 @@
 # F1 Pit Stop Strategy Predictor
 
-Steven Velasquez — CAI4105
+Final Class Project for Machine Learning
 
 Predicts, on a per-lap basis, whether a Formula 1 driver should pit ("Pit")
 or continue on track ("Stay Out"), using lap, tire, position, and weather
